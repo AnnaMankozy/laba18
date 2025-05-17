@@ -73,5 +73,4 @@ float sum_fx(float a[], int n, double f(double)) {
         s += a[i] * f(a[i]);
     }
     return s;
-    return 0;
 } 
